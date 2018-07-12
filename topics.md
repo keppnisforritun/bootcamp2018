@@ -1,4 +1,5 @@
 Possible topics to cover during the bootcamp:
+- 2-SAT
 - eerTree (Palindromic tree)
 - Advanced dynamic programming
   - Dynamic programming optimizations
