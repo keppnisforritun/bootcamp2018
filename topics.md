@@ -33,3 +33,4 @@ Possible topics to cover during the bootcamp:
 - Synchronizing word
 - Tridiagonal matrix algorithm
 - Wavelet tree
+- Stable Marriage
