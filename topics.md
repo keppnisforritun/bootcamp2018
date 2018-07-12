@@ -1,2 +1,34 @@
 Possible topics to cover during the bootcamp:
 - eerTree (Palindromic tree)
+- Advanced dynamic programming
+  - Dynamic programming optimizations
+    - Convex hull trick (and dynamic variant)
+    - Divide and conquer optimization
+    - Knuth optimization
+  - Dynamic programming over digits
+  - Dynamic programming with divide and conquer
+  - Dynamic programming over bipartite matchings
+  - Dynamic programming over permutation segments
+- Centroid decomposition
+- Dominator tree
+- Fast fourier transform
+  - Fast Hadamard transform
+  - Number-theoretic transform
+- Maximum flow/minimum cut
+  - Maximum density subgraph
+- Minkowski sum
+- Mo's algorithm
+  - Mo's algorithm on trees
+- Parallel binary search
+- Persistent data structures
+  - Persistent segment tree
+- Geometry
+  - Rotating calipers
+  - Shrink trick
+  - Sweep line
+- Subtree compression
+- Suffix array
+- Suffix automaton
+- Synchronizing word
+- Tridiagonal matrix algorithm
+- Wavelet tree
